@@ -1,0 +1,43 @@
+location,name,location.1,depth_from_cm,depth_to_cm,soil220312,comment220312,layer,thickness_m
+A300,CD1-300,controlled drainage,0,45,Ap,,Ap,0.45
+A300,CD1-300,controlled drainage,45,70,sand,(gb): pretty sure it's not sand but hard clay,ripened clay,0.25
+A300,CD1-300,controlled drainage,70,140,hard clay with iron oxide,,ripened clay,0.7
+A300,CD1-300,controlled drainage,140,280,unconsolidated grey clay,,unripened clay,1.4
+A300,CD1-300,controlled drainage,280,300,peat,,peat,0.2
+B300,CD2-300,controlled drainage,0,40,Ap,,Ap,0.4
+B300,CD2-300,controlled drainage,40,120,hard clay with iron oxide,,ripened clay,0.8
+B300,CD2-300,controlled drainage,120,180,soft clay with some peat,,unripened clay,0.6
+B300,CD2-300,controlled drainage,180,280,peat sandy black,,peat,1.0
+B300,CD2-300,controlled drainage,280,310,unconsolidated grey clay,,unripened clay,0.3
+C300,CD3-300,controlled drainage,0,40,Ap,,Ap,0.4
+C300,CD3-300,controlled drainage,40,180,hard light clay,,ripened clay,1.4
+C300,CD3-300,controlled drainage,180,250,darker clay with more sand,,unripened clay,0.7
+C300,CD3-300,controlled drainage,250,300,grey sand,,grey sand,0.5
+D300,RD3-300,reference field,0,40,Ap,,Ap,0.4
+D300,RD3-300,reference field,40,150,hard light clay,watertable 150,ripened clay,1.1
+D300,RD3-300,reference field,150,180,clay with iron and sand,,ripened clay,0.3
+D300,RD3-300,reference field,180,300,dark sandy clay with trace of peat,,unripened clay,1.2
+E300,RD2-300,reference field,0,50,Ap,,Ap,0.5
+E300,RD2-300,reference field,50,75,hard light clay,,ripened clay,0.25
+E300,RD2-300,reference field,75,190,dark clay below WT,,unripened clay,1.15
+E300,RD2-300,reference field,190,240,peat sandy black,,peat,0.5
+E300,RD2-300,reference field,240,300,peat,,peat,0.6
+F300,RD1-300,reference field,0,40,Ap,,Ap,0.4
+F300,RD1-300,reference field,40,80,hard light clay,,ripened clay,0.4
+F300,RD1-300,reference field,80,150,clay with iron,,ripened clay,0.7
+F300,RD1-300,reference field,150,230,dark clay below WT,,unripened clay,0.8
+F300,RD1-300,reference field,230,300,peat sandy black,,peat,0.7
+G300,ND1-300,normal drainage,0,40,Ap,,Ap,0.4
+G300,ND1-300,normal drainage,40,120,hard light clay,,ripened clay,0.8
+G300,ND1-300,normal drainage,120,190,clay with iron and sand,,ripened clay,0.7
+G300,ND1-300,normal drainage,190,250,dark soft clay,,unripened clay,0.6
+G300,ND1-300,normal drainage,250,300,peat,,peat,0.5
+H300,ND2-300,normal drainage,0,40,Ap,,Ap,0.4
+H300,ND2-300,normal drainage,40,80,hard light clay,,ripened clay,0.4
+H300,ND2-300,normal drainage,80,180,hard clay with white stuff,,ripened clay,1.0
+H300,ND2-300,normal drainage,180,210,dark soft clay,,unripened clay,0.3
+H300,ND2-300,normal drainage,210,300,peat,,peat,0.9
+I300,ND3-300,normal drainage,0,40,Ap,,Ap,0.4
+I300,ND3-300,normal drainage,40,150,hard light clay,,ripened clay,1.1
+I300,ND3-300,normal drainage,150,170,dark soft clay,,unripened clay,0.2
+I300,ND3-300,normal drainage,170,300,peat,,peat,1.3
